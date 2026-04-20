@@ -1,6 +1,6 @@
 # php-products-api
 
-## 🚀 API Endpoints Documentation
+## API Endpoints Documentation
 
 | HTTP Method | Route | Operation |
 | :--- | :--- | :--- |
@@ -10,7 +10,7 @@
 | `PUT` | `/products/{id}` | Update existing product details |
 | `DELETE` | `/products/{id}` | Remove item from records |
 
-## 📄 Response Structure (Example)
+## Response Structure (Example)
 ```json
 {
   "status": "success",
